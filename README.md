@@ -1,4 +1,4 @@
-# cook
+# Appetite
 
 A new Flutter project.
 
